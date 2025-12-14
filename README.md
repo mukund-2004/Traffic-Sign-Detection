@@ -1,4 +1,4 @@
-## Traffic Sign Detection
+# Traffic Sign Detection
 
 
 Developed a Traffic Sign Detection system that identifies traffic signs from images using a Convolutional Neural Network (CNN).
